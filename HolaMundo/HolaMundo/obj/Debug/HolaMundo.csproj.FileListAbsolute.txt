@@ -1,0 +1,7 @@
+E:\Ejercicios Instructor Jesus David\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+E:\Ejercicios_Instructor_Jesus_David\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+E:\Ejercicios_Instructor_Jesus_David\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+E:\Ejercicios_Instructor_Jesus_David\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+E:\Ejercicios_Instructor_Jesus_David\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+E:\Ejercicios_Instructor_Jesus_David\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+E:\Ejercicios_Instructor_Jesus_David\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
